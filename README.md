@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cromanalcaidev
 - 🌱 I’m currently learning Swift as part of a new plan to change careers 
 - 💞️ At the moment I'm not interested in collaborating in projects, because I'm taking baby steps, but hopefully I'll be there soon.
-- 📫 Reach me out at cromanalcaidev[at]gmail.com
+- 📫 Reach out to me at cromanalcaidev[at]gmail.com
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I've studied Translation, Advertising, Cooking (professionally) and a little Marketing.
 
