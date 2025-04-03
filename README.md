@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cromanalcaidev
-- 🌱 I’m currently learning Swift as part of a new plan to change careers 
+- 🌱 During the best part of 2024 I learnt Swift and iOS Dev, and I've released two apps. I'm currently working my way through my third app.
 - 💞️ At the moment I'm not interested in collaborating in projects, because I'm taking baby steps, but hopefully I'll be there soon.
 - 📫 Reach out to me at cromanalcaidev[at]gmail.com
 - 😄 Pronouns: He / Him
